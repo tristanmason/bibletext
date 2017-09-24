@@ -9,7 +9,7 @@ Wordpress running on a web server.
 
 ### Installing
 
-Download the plugin, zip the files, and upload .zip to Wordpress.
+Download the plugin, zip the files, and upload .zip to Wordpress plugins page.
 
 ## Author
 
