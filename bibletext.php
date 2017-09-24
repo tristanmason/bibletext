@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Christ Community Bible Text
+ * Plugin Name: Bibletext ESV
  * Plugin URI: https://tristanmason.com
  * Description: This plugin reads a Bible reference from a page's URL or shortcode and displays the Bible text on the page. Use shortcodes like [bibletext book="john" chapter="1" verse="1-4"] in any post or page. Also allows URL queries.
  * Version: 1.0.1
